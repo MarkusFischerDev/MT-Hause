@@ -91,3 +91,7 @@ body::-webkit-scrollbar-thumb
     text-decoration: none;
     padding-bottom: 0;
 }
+
+#small-logo{
+    height: 40px;
+}
